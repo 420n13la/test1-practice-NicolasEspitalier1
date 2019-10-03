@@ -1,0 +1,32 @@
+nav{
+	background-color: aliceblue;
+}
+header{
+	background-image: url("pattern9.png");
+	background-repeat: repeat;
+}
+main{
+	background-image: linear-gradient(Aqua, Aquamarine, Cyan, DodgerBlue, LightBlue);
+}
+a{
+	border: solid;
+	border-color: green;
+	padding: .5em;
+	background-color: black;
+	text-decoration: white;
+}
+img{
+	box-shadow: 10px 10px 5px gray;
+}
+div{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+#image{
+	background-size: cover;
+}
+#image2{
+	margin-top: -16px;
+}
